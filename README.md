@@ -7,4 +7,5 @@ CONTENTS:
 
 -  COSTFUNCTIONREG computes cost and gradient for logistic regression with regularization
 -  COSTFUNCTION computes cost and gradient for logistic regression
+-  PREDICT predicts whether the label is 0 or 1 using learned logistic regression parameters theta
     
