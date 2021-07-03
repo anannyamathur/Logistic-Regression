@@ -1,6 +1,7 @@
 # Logistic-Regression
-# MACHINE LEARNING: STANFORD COURSERA COURSE BY ANDREW NG
+# MACHINE LEARNING: STANFORD COURSE BY ANDREW NG (COURSERA)
 CONTENTS:
-    1. Logistic Regression
-    2. Regularised Logistic Regression
+-  Logistic Regression
+-  Regularised Logistic Regression
+-  COSTFUNCTIONREG computes cost and gradient for logistic regression with regularization
     
